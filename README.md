@@ -9,6 +9,7 @@ windows上でクリップボードにある文字列の文字数及び行数を�
 ### requirement
 
 - cargo
+- windows 10 or later
 
 ### install command
 
